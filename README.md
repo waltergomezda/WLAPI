@@ -46,7 +46,7 @@ GO
 ```
 ## Instructions to Run
 
-Recreate Database using previous script
-Open the solution WL.Services.Configuration.sln using Visual Studio
-Update db settings in the configuration file Protocol\appsettings.json 
-Run the solution using IIS Express
+- Recreate Database using previous script
+- Open the solution WL.Services.Configuration.sln using Visual Studio
+- Update db settings in the configuration file Protocol\appsettings.json 
+- Run the solution using IIS Express
